@@ -1,8 +1,6 @@
 package com.mvrscreator.dslist.Controllers;
 
 import com.mvrscreator.dslist.GameMinDTO;
-import com.mvrscreator.dslist.entities.Game;
-import com.mvrscreator.dslist.repositories.GameRepository;
 import com.mvrscreator.dslist.services.GameService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

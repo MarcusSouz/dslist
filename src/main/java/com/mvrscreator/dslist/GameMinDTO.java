@@ -1,7 +1,7 @@
 package com.mvrscreator.dslist;
 
 import com.mvrscreator.dslist.entities.Game;
-import jakarta.persistence.Column;
+
 
 public class GameMinDTO {
     private Long id;
