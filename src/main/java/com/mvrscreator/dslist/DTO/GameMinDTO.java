@@ -1,4 +1,4 @@
-package com.mvrscreator.dslist;
+package com.mvrscreator.dslist.DTO;
 
 import com.mvrscreator.dslist.entities.Game;
 
